@@ -1,3 +1,6 @@
+
+![12](https://github.com/ilyaasomar/vercel-v0-starter-template/assets/48979155/1e10b654-e998-4fc6-acba-95a17a3a3c62)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
